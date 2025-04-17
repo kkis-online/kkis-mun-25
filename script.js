@@ -50,6 +50,66 @@ const munConfig = {
       "interests": "Children's rights, global peace"
     },
     {
+      "id": 65,
+      "name": "Yasser Ajaj",
+      "photo": "imgs/pfps/yasser.png",
+      "quote": "Small steps lead to great change.",
+      "committee": "UNICEF",
+      "country": "Chair",
+      "school": "KKIS",
+      "experience": "KKIS Senior Chair",
+      "achievements": "Presented a resolution at KKIS MUN 2024",
+      "interests": "Children's rights, global peace"
+    },
+    {
+      "id": 65,
+      "name": "Jewairia Ajaj",
+      "photo": "imgs/pfps/jewairia.png",
+      "quote": "Small steps lead to great change.",
+      "committee": "WHO",
+      "country": "Chair",
+      "school": "KKIS",
+      "experience": "KKIS Senior Chair",
+      "achievements": "Active contributor WHO 2024",
+      "interests": "Global unity, child rights"
+    },
+    {
+      "id": 6,
+      "name": "Rama",
+      "photo": "imgs/pfps/rama.png",
+      "quote": "Hope guides every negotiation.",
+      "committee": "WHO",
+      "country": "Co Chair",
+      "school": "KKIS",
+      "experience": "3 year in MUN",
+      "achievements": "Active contributor WHO 2024",
+      "interests": "Healthcare access, global health"
+    },
+    {
+      "id": 32,
+      "name": "Abdulrahman Ahmed Al - Baz",
+      "photo": "imgs/pfps/baz.png",
+      "quote": "Public health is global wealth.",
+      "committee": "UNICEF",
+      "country": "Co Chair",
+      "school": "KKIS",
+      "experience": "2 years in MUN",
+      "achievements": "UNICEF Delegate Excellence Award",
+      "interests": "Medicine, global health policies"
+    },
+    {
+      "id": 19,
+      "name": "Malak Youssef Ali",
+      "photo": "imgs/pfps/malak.png",
+      "quote": "Voices of youth shape the world.",
+      "committee": "UNICEF",
+      "country": "USA",
+      "school": "KKIS",
+      "experience": "1 year in MUN",
+      "achievements": "Active contributor UNICEF 2024",
+      "interests": "Global unity, child rights"
+    },
+    {
       "id": 12,
       "name": "Hala Mohamed Aldauod",
       "photo": "imgs/pfps/hala2.png",
@@ -72,18 +132,6 @@ const munConfig = {
       "experience": "2 years in MUN",
       "achievements": "Top resolution contributor 2024",
       "interests": "Youth education, sustainable development"
-    },
-    {
-      "id": 19,
-      "name": "Malak Youssef Ali",
-      "photo": "imgs/pfps/malak.png",
-      "quote": "Voices of youth shape the world.",
-      "committee": "UNICEF",
-      "country": "USA",
-      "school": "KKIS",
-      "experience": "1 year in MUN",
-      "achievements": "Active contributor UNICEF 2024",
-      "interests": "Global unity, child rights"
     },
     {
       "id": 25,
@@ -144,18 +192,6 @@ const munConfig = {
       "experience": "1 year in MUN",
       "achievements": "Active contributor UNICEF 2024",
       "interests": "Children’s education, equality"
-    },
-    {
-      "id": 7,
-      "name": "Motaz Yasser Awwad",
-      "photo": "imgs/pfps/mutaz.png",
-      "quote": "Voices of youth shape the world.",
-      "committee": "UNICEF",
-      "country": "Ukraine",
-      "school": "KKIS",
-      "experience": "1 year in MUN",
-      "achievements": "Honorable Mention 2024",
-      "interests": "Global unity, child rights"
     },
     {
       "id": 14,
@@ -362,18 +398,6 @@ const munConfig = {
       "interests": "Children’s welfare, equality"
     },
     {
-      "id": 32,
-      "name": "Abdulrahman Ahmed Al - Baz",
-      "photo": "imgs/pfps/baz.png",
-      "quote": "Public health is global wealth.",
-      "committee": "WHO",
-      "country": "Russia",
-      "school": "KKIS",
-      "experience": "2 years in MUN",
-      "achievements": "WHO Delegate Excellence Award",
-      "interests": "Medicine, global health policies"
-    },
-    {
       "id": 33,
       "name": "Bader Mohammed Alattas",
       "photo": "imgs/pfps/badr.png",
@@ -542,9 +566,21 @@ const munConfig = {
       "interests": "Healthcare access, global health"
     },
     {
+      "id": 7,
+      "name": "Motaz Yasser Awwad",
+      "photo": "imgs/pfps/mutaz.png",
+      "quote": "Voices of youth shape the world.",
+      "committee": "UNICEF",
+      "country": "Ukraine",
+      "school": "KKIS",
+      "experience": "1 year in MUN",
+      "achievements": "Honorable Mention 2024",
+      "interests": "Global unity, child rights"
+    },
+    {
       "id": 49,
       "name": "Lamar Ghiath Hajo",
-      "photo": "imgs/pfps/lamar.png",
+      "photo": "imgs/pfps/lamar1.png",
       "quote": "Together for better health.",
       "committee": "WHO",
       "country": "Iraq",
@@ -664,7 +700,7 @@ const munConfig = {
     {
       "id": 57,
       "name": "Yara Ammar Ajaj",
-      "photo": "imgs/pfps/yara1.png",
+      "photo": "imgs/pfps/yara2.png",
       "quote": "Health is a fundamental right.",
       "committee": "WHO",
       "country": "Syria",
@@ -676,7 +712,7 @@ const munConfig = {
     {
       "id": 58,
       "name": "Yara Hani Al Shareef",
-      "photo": "imgs/pfps/yara2.png",
+      "photo": "imgs/pfps/yara1.png",
       "quote": "Together for a healthier world.",
       "committee": "WHO",
       "country": "Saudi Arabia",
