@@ -1056,7 +1056,7 @@ function setCurrentYear() {
 
 
 
-let displayedParticipants = 100; // Number of participants to display initially
+let displayedParticipants = 6; // Number of participants to display initially
 
 function loadParticipants() {
     const participantsContainer = document.getElementById('participants-container');
