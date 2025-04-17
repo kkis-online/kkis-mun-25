@@ -36,11 +36,11 @@ const munConfig = {
           agenda: "Strengthening global health systems in preparation for future pandemics"
       }
   ],
-   participants : [
+  participants: [
     {
       "id": 1,
-      "name": "Ayman M. Khair Abu Anqour",
-      "photo": "https://placehold.co/250x250",
+      "name": "Ayman M. Khair",
+      "photo": "imgs/pfps/ayman2.png",
       "quote": "A true diplomat builds bridges, not walls.",
       "committee": "UNICEF",
       "country": "Singapore",
@@ -52,7 +52,7 @@ const munConfig = {
     {
       "id": 12,
       "name": "Hala Mohamed Aldauod",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/hala2.png",
       "quote": "Hope guides every negotiation.",
       "committee": "UNICEF",
       "country": "France",
@@ -64,7 +64,7 @@ const munConfig = {
     {
       "id": 4,
       "name": "Hassan Naif Saaty",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/hassan.png",
       "quote": "Every voice matters in diplomacy.",
       "committee": "UNICEF",
       "country": "New Zealand",
@@ -76,7 +76,7 @@ const munConfig = {
     {
       "id": 19,
       "name": "Malak Youssef Ali",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/malak.png",
       "quote": "Voices of youth shape the world.",
       "committee": "UNICEF",
       "country": "USA",
@@ -88,7 +88,7 @@ const munConfig = {
     {
       "id": 25,
       "name": "Rudayna Ayman Munshi",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/rudayna.png",
       "quote": "Voices of youth shape the world.",
       "committee": "UNICEF",
       "country": "Brazil",
@@ -100,7 +100,7 @@ const munConfig = {
     {
       "id": 5,
       "name": "Lutfi Mohammed Aldaoud",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/lutfi.png",
       "quote": "Diplomacy is dialogue over dominance.",
       "committee": "UNICEF",
       "country": "Egypt",
@@ -112,7 +112,7 @@ const munConfig = {
     {
       "id": 47,
       "name": "Sedra Fadi Alnajjar",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/sedra.png",
       "quote": "A healthy world is a peaceful world.",
       "committee": "WHO",
       "country": "Netherlands",
@@ -124,7 +124,7 @@ const munConfig = {
     {
       "id": 10,
       "name": "Aseel Yousef Tayeb",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/aseel.png",
       "quote": "Health knows no borders.",
       "committee": "UNICEF",
       "country": "Pakistan",
@@ -136,7 +136,7 @@ const munConfig = {
     {
       "id": 6,
       "name": "Lamar Abobaker Ahmed Ismail",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/lamar1.png",
       "quote": "Hope guides every negotiation.",
       "committee": "UNICEF",
       "country": "Portugal",
@@ -148,7 +148,7 @@ const munConfig = {
     {
       "id": 7,
       "name": "Motaz Yasser Awwad",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/mutaz.png",
       "quote": "Voices of youth shape the world.",
       "committee": "UNICEF",
       "country": "Ukraine",
@@ -160,7 +160,7 @@ const munConfig = {
     {
       "id": 14,
       "name": "Yusra Eyas Khalaf",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/yusra.png",
       "quote": "Small steps lead to great change.",
       "committee": "UNICEF",
       "country": "Switzerland",
@@ -172,7 +172,7 @@ const munConfig = {
     {
       "id": 9,
       "name": "Yaman Bilal Olayan",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/yaman.png",
       "quote": "Change starts with conversation.",
       "committee": "UNICEF",
       "country": "South Korea",
@@ -184,7 +184,7 @@ const munConfig = {
     {
       "id": 11,
       "name": "Dima Ahmed Abdelhadi",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/dima.png",
       "quote": "Every voice matters in diplomacy.",
       "committee": "UNICEF",
       "country": "Sudan",
@@ -196,7 +196,7 @@ const munConfig = {
     {
       "id": 15,
       "name": "Laura Hani Jambi",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/laura.png",
       "quote": "Change starts with conversation.",
       "committee": "UNICEF",
       "country": "Afghanistan",
@@ -208,7 +208,7 @@ const munConfig = {
     {
       "id": 8,
       "name": "Qusay Ahmed Abdaljalil",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/qusay.png",
       "quote": "Small steps lead to great change.",
       "committee": "UNICEF",
       "country": "Sweden",
@@ -220,7 +220,7 @@ const munConfig = {
     {
       "id": 18,
       "name": "Lnaa Husni Alsufani",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/lna.png",
       "quote": "Hope guides every negotiation.",
       "committee": "UNICEF",
       "country": "Australia",
@@ -232,7 +232,7 @@ const munConfig = {
     {
       "id": 20,
       "name": "Mira Ahmed Basndwah",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/mira1.png",
       "quote": "Small steps lead to great change.",
       "committee": "UNICEF",
       "country": "Canada",
@@ -244,7 +244,7 @@ const munConfig = {
     {
       "id": 21,
       "name": "Qamar Ibrahim Alzuhairy",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/qamr.png",
       "quote": "Change starts with conversation.",
       "committee": "UNICEF",
       "country": "UAE",
@@ -256,7 +256,7 @@ const munConfig = {
     {
       "id": 22,
       "name": "Reem Ahmed Alharbi",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/reem.png",
       "quote": "Health knows no borders.",
       "committee": "UNICEF",
       "country": "Mexico",
@@ -268,7 +268,7 @@ const munConfig = {
     {
       "id": 23,
       "name": "Reema saud Aljuaed",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/reema.png",
       "quote": "Every voice matters in diplomacy.",
       "committee": "UNICEF",
       "country": "Netherlands",
@@ -280,7 +280,7 @@ const munConfig = {
     {
       "id": 24,
       "name": "Rital Abdulaziz Al-turkimani",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/rital.png",
       "quote": "Hope guides every negotiation.",
       "committee": "UNICEF",
       "country": "Algeria",
@@ -292,7 +292,7 @@ const munConfig = {
     {
       "id": 26,
       "name": "Tolay Almotazbellah Mirah",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/tulay.png",
       "quote": "Small steps lead to great change.",
       "committee": "UNICEF",
       "country": "Qatar",
@@ -304,7 +304,7 @@ const munConfig = {
     {
       "id": 27,
       "name": "Sarah Alaa Alasaad",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/sara1.png",
       "quote": "Change starts with conversation.",
       "committee": "UNICEF",
       "country": "Palestine",
@@ -316,7 +316,7 @@ const munConfig = {
     {
       "id": 28,
       "name": "Selwan Motaz Qutim",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/selwan.png",
       "quote": "Health knows no borders.",
       "committee": "UNICEF",
       "country": "Spain",
@@ -328,7 +328,7 @@ const munConfig = {
     {
       "id": 29,
       "name": "Maya Khaled Abu Amr",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/maya.png",
       "quote": "Every voice matters in diplomacy.",
       "committee": "UNICEF",
       "country": "Georgia",
@@ -340,7 +340,7 @@ const munConfig = {
     {
       "id": 30,
       "name": "Toqa Walid Ghanem",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/toqa.png",
       "quote": "Hope guides every negotiation.",
       "committee": "UNICEF",
       "country": "China",
@@ -352,7 +352,7 @@ const munConfig = {
     {
       "id": 31,
       "name": "Maryam Reda Mansour",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/mariam.png",
       "quote": "Small steps lead to great change.",
       "committee": "UNICEF",
       "country": "United Kingdom",
@@ -363,8 +363,8 @@ const munConfig = {
     },
     {
       "id": 32,
-      "name": "Abdulrahman Ahmed Al-Baz",
-      "photo": "https://placehold.co/250x250",
+      "name": "Abdulrahman Ahmed Al - Baz",
+      "photo": "imgs/pfps/baz.png",
       "quote": "Public health is global wealth.",
       "committee": "WHO",
       "country": "Russia",
@@ -376,7 +376,7 @@ const munConfig = {
     {
       "id": 33,
       "name": "Bader Mohammed Alattas",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/badr.png",
       "quote": "Health knows no borders.",
       "committee": "WHO",
       "country": "Ukraine",
@@ -388,7 +388,7 @@ const munConfig = {
     {
       "id": 34,
       "name": "Baraa Murad Abuomar",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/baraa.png",
       "quote": "Healing nations begins with cooperation.",
       "committee": "WHO",
       "country": "Jordan",
@@ -400,7 +400,7 @@ const munConfig = {
     {
       "id": 35,
       "name": "Hamza Adnan Samha",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/hamza1.png",
       "quote": "Healthy societies start with healthy children.",
       "committee": "WHO",
       "country": "South Africa",
@@ -412,7 +412,7 @@ const munConfig = {
     {
       "id": 36,
       "name": "Karam Murad Omar",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/karam.png",
       "quote": "Health is a human right.",
       "committee": "WHO",
       "country": "Switzerland",
@@ -423,8 +423,8 @@ const munConfig = {
     },
     {
       "id": 38,
-      "name": "Osama Yasser Awwad",
-      "photo": "https://placehold.co/250x250",
+      "name": "Osama Yasser awwad",
+      "photo": "imgs/pfps/osama.png",
       "quote": "Access to healthcare is a right.",
       "committee": "WHO",
       "country": "China",
@@ -436,7 +436,7 @@ const munConfig = {
     {
       "id": 39,
       "name": "Tamim Adel Ahmed",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/tamim.png",
       "quote": "Every child deserves health.",
       "committee": "WHO",
       "country": "Mexico",
@@ -448,7 +448,7 @@ const munConfig = {
     {
       "id": 40,
       "name": "Hamza Mohammed Farouk",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/hamza2.png",
       "quote": "Health is wealth.",
       "committee": "WHO",
       "country": "Spain",
@@ -460,19 +460,19 @@ const munConfig = {
     {
       "id": 41,
       "name": "Alma Omar Al Turk",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/alma.png",
       "quote": "Health equity is essential.",
       "committee": "WHO",
       "country": "Finland",
       "school": "KKIS",
-      "experience": "1 year in MUN",
+      "experience":      "1 year in MUN",
       "achievements": "Active contributor WHO 2024",
       "interests": "Healthcare access, global health"
     },
     {
       "id": 42,
       "name": "Aya Mohammad Ahmad",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/aya.png",
       "quote": "Healthy children, healthy future.",
       "committee": "WHO",
       "country": "Kuwait",
@@ -484,7 +484,7 @@ const munConfig = {
     {
       "id": 43,
       "name": "Fatima Hafiz Ali",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/fatima.png",
       "quote": "Health is a shared responsibility.",
       "committee": "WHO",
       "country": "Germany",
@@ -496,7 +496,7 @@ const munConfig = {
     {
       "id": 44,
       "name": "Hala Ahmed Mohammed",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/hala1.png",
       "quote": "Together we can improve health.",
       "committee": "WHO",
       "country": "Turkey",
@@ -508,7 +508,7 @@ const munConfig = {
     {
       "id": 45,
       "name": "Jana Ahmed Mahmoud Elbaz",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/jana.png",
       "quote": "Health is a fundamental right.",
       "committee": "WHO",
       "country": "Palestine",
@@ -520,7 +520,7 @@ const munConfig = {
     {
       "id": 46,
       "name": "Moaaz Mohammed Farouk",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/muath.png",
       "quote": "Health for all, everywhere.",
       "committee": "WHO",
       "country": "Qatar",
@@ -532,7 +532,7 @@ const munConfig = {
     {
       "id": 48,
       "name": "Lamar Thamer Bakkr",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/lamar4.png",
       "quote": "Health is the foundation of society.",
       "committee": "WHO",
       "country": "Nigeria",
@@ -544,7 +544,7 @@ const munConfig = {
     {
       "id": 49,
       "name": "Lamar Ghiath Hajo",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/lamar.png",
       "quote": "Together for better health.",
       "committee": "WHO",
       "country": "Iraq",
@@ -556,7 +556,7 @@ const munConfig = {
     {
       "id": 50,
       "name": "Lamia Shadi Lazkani",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/lamia.png",
       "quote": "Health is a human right.",
       "committee": "WHO",
       "country": "Morocco",
@@ -568,7 +568,7 @@ const munConfig = {
     {
       "id": 51,
       "name": "Lana Emad Al Adwan",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/lana.png",
       "quote": "Health is wealth.",
       "committee": "WHO",
       "country": "Italy",
@@ -580,7 +580,7 @@ const munConfig = {
     {
       "id": 52,
       "name": "Masooma Rehan Haider",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/masooma.png",
       "quote": "Healthy children, healthy future.",
       "committee": "WHO",
       "country": "Canada",
@@ -592,7 +592,7 @@ const munConfig = {
     {
       "id": 53,
       "name": "Mayyar Turki Mobaraki",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/mayar.png",
       "quote": "Access to healthcare is a right.",
       "committee": "WHO",
       "country": "UAE",
@@ -604,7 +604,7 @@ const munConfig = {
     {
       "id": 37,
       "name": "Mohammed Murad Embaby",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/mohammad2.png",
       "quote": "Together for a healthier world.",
       "committee": "WHO",
       "country": "UK",
@@ -616,7 +616,7 @@ const munConfig = {
     {
       "id": 3,
       "name": "Faris Ayman Namer",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/faris.png",
       "quote": "Change starts with conversation.",
       "committee": "UNICEF",
       "country": "Germany",
@@ -628,7 +628,7 @@ const munConfig = {
     {
       "id": 54,
       "name": "Mera Murad Embaby",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/mira2.png",
       "quote": "Together we can improve health.",
       "committee": "WHO",
       "country": "Congo",
@@ -640,7 +640,7 @@ const munConfig = {
     {
       "id": 55,
       "name": "Sham Hassan Alakhras",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/sham.png",
       "quote": "Health is a shared responsibility.",
       "committee": "WHO",
       "country": "Sweden",
@@ -652,7 +652,7 @@ const munConfig = {
     {
       "id": 56,
       "name": "Sara Bilal Olayan",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/sara2.png",
       "quote": "Healthy societies start with healthy children.",
       "committee": "WHO",
       "country": "France",
@@ -664,7 +664,7 @@ const munConfig = {
     {
       "id": 57,
       "name": "Yara Ammar Ajaj",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/yara1.png",
       "quote": "Health is a fundamental right.",
       "committee": "WHO",
       "country": "Syria",
@@ -676,7 +676,7 @@ const munConfig = {
     {
       "id": 58,
       "name": "Yara Hani Al Shareef",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/yara2.png",
       "quote": "Together for a healthier world.",
       "committee": "WHO",
       "country": "Saudi Arabia",
@@ -688,26 +688,14 @@ const munConfig = {
     {
       "id": 59,
       "name": "Yasmeen Amr Rasheedi",
-      "photo": "https://placehold.co/250x250",
+      "photo": "imgs/pfps/yasmine.png",
       "quote": "Healthy societies start with healthy children.",
       "committee": "WHO",
-      "country": "Poland",
+      "country": "Jordan",
       "school": "KKIS",
       "experience": "1 year in MUN",
       "achievements": "Active contributor WHO 2024",
-      "interests": "Public health, science"
-    },
-    {
-      "id": 60,
-      "name": "Lamar Mohammed Albatal",
-      "photo": "https://placehold.co/250x250",
-      "quote": "Health is wealth.",
-      "committee": "WHO",
-      "country": "Portugal",
-      "school": "KKIS",
-      "experience": "1 year in MUN",
-      "achievements": "Active contributor WHO 2024",
-      "interests": "Public health, global policies"
+      "interests": "Child health, global aid"
     }
   ],
   gallery: {
@@ -1068,7 +1056,7 @@ function setCurrentYear() {
 
 
 
-let displayedParticipants = 6; // Number of participants to display initially
+let displayedParticipants = 100; // Number of participants to display initially
 
 function loadParticipants() {
     const participantsContainer = document.getElementById('participants-container');
