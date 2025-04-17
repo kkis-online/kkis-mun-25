@@ -13,8 +13,7 @@ const munConfig = {
           mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14298.748089227194!2d39.1855733!3d21.5880523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d0ec3a88e535%3A0x71423e928294e775!2z2YXYr9in2LHYsyDZgdix2LPYp9mGINin2YTZhdi52LHZgdipINin2YTYudin2YTZhdmK2Kk!5e1!3m2!1sar!2ssa!4v1744745411323!5m2!1sar!2ssa"
       },
       contact: {
-          phone: "+966 4 123 4567",
-          email: "mun@kkis.edu",
+          phone: "+966 92000 5401",
           website: "www.kkischools.com"
       }
   },
@@ -25,7 +24,7 @@ const munConfig = {
           fullName: "United Nations Children's Fund",
           logo: "imgs/unicef.png",
           description: "UNICEF works to protect the rights and welfare of children worldwide. Delegates will address pressing issues concerning child health, education, protection from violence, and access to resources.",
-          agenda: "Addressing the global crisis of child malnutrition and food insecurity"
+          agenda: "Rights Of The Child"
       },
       {
           id: "who",
@@ -33,7 +32,7 @@ const munConfig = {
           fullName: "World Health Organization",
           logo: "imgs/who.png",
           description: "WHO leads global efforts to promote health, keep the world safe, and serve the vulnerable. Delegates will tackle contemporary health challenges and develop international health policies.",
-          agenda: "Strengthening global health systems in preparation for future pandemics"
+          agenda: "Access To Healthcare In Conflict Zones"
       }
   ],
   participants: [
@@ -63,7 +62,7 @@ const munConfig = {
     },
     {
       "id": 65,
-      "name": "Jewairia Ajaj",
+      "name": "Jewairia Ali",
       "photo": "imgs/pfps/jewairia.png",
       "quote": "Small steps lead to great change.",
       "committee": "WHO",
@@ -400,7 +399,7 @@ const munConfig = {
     {
       "id": 33,
       "name": "Bader Mohammed Alattas",
-      "photo": "imgs/pfps/badr.png",
+      "photo": "imgs/pfps/bader.png",
       "quote": "Health knows no borders.",
       "committee": "WHO",
       "country": "Ukraine",
@@ -552,6 +551,18 @@ const munConfig = {
       "experience": "1 year in MUN",
       "achievements": "Active contributor WHO 2024",
       "interests": "Healthcare reform, global health"
+    },
+    {
+      "id": 39,
+      "name": "Bader Mohammed Alattas",
+      "photo": "imgs/pfps/bader.png",
+      "quote": "Everyone deserves health.",
+      "committee": "WHO",
+      "country": "Ukraine",
+      "school": "KKIS",
+      "experience": "1 year in MUN",
+      "achievements": "Active contributor WHO 2024",
+      "interests": "Child health, global aid"
     },
     {
       "id": 48,
@@ -727,7 +738,7 @@ const munConfig = {
       "photo": "imgs/pfps/yasmine.png",
       "quote": "Healthy societies start with healthy children.",
       "committee": "WHO",
-      "country": "Jordan",
+      "country": "Poland",
       "school": "KKIS",
       "experience": "1 year in MUN",
       "achievements": "Active contributor WHO 2024",
@@ -1055,10 +1066,6 @@ function loadContactInfo() {
           <div class="contact-item">
               <i class="fas fa-phone"></i>
               <p>${contact.phone}</p>
-          </div>
-          <div class="contact-item">
-              <i class="fas fa-envelope"></i>
-              <p>${contact.email}</p>
           </div>
           <div class="contact-item">
               <i class="fas fa-globe"></i>

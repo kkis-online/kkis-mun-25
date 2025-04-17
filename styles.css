@@ -1051,15 +1051,17 @@ footer {
     
     p {
       margin-bottom: 5px;
-      font-size: 0.9rem;
+      font-size: 1rem;
       color: rgba(255, 255, 255, 0.7);
       
       a {
         color: var(--tertiary);
-        font-size: 18px;
+        font-size: 1.5rem;
         
+        text-decoration: underline;
         &:hover {
-          text-decoration: underline;
+          color: #fff;
+          font-weight: bold;
         }
       }
     }
