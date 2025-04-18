@@ -40,7 +40,7 @@ const munConfig = {
     {
       "id": 1,
       "name": "<a href='https://ayman-121.github.io/me-v3/' target='_blank' title='Ayman M. Khair'>Ayman M. Khair  <i class='fa-solid fa-arrow-up-right-from-square'></i></a>",
-      "photo": "imgs/pfps/ayman1.png",
+      "photo": "imgs/pfps/ayman3.png",
       "quote": "While others prepare to rise, I’ve already claimed the PEAK.",
       "committee": "UNICEF",
       "country": "Singapore",
