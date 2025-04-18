@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kkis-online.github.io/kkis-min-25/sitemap.xml
