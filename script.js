@@ -46,8 +46,8 @@ const munConfig = {
       "country": "Singapore",
       "school": "KKIS",
       "experience": "2 years in MUN",
-      "achievements": "<a href='https://ayman-121.github.io/me-v3/index.html#about' target='_blank' title='Ayman M. Khair'> Achievements <i class='fa-solid fa-arrow-up-right-from-square'></i></a>",
-      "interests": "<a href='https://ayman-121.github.io/me-v3/index.html#about' target='_blank' title='Ayman M. Khair'> Interests <i class='fa-solid fa-arrow-up-right-from-square'></i></a>"
+      "achievements": "<a href='https://ayman-121.github.io/me-v3/index.html#about' target='_blank' title='Ayman M. Khair'>Redirect <i class='fa-solid fa-arrow-up-right-from-square'></i></a>",
+      "interests": "<a href='https://ayman-121.github.io/me-v3/index.html#about' target='_blank' title='Ayman M. Khair'> Redirect <i class='fa-solid fa-arrow-up-right-from-square'></i></a>"
     },
     {
       "id": 65,
