@@ -184,7 +184,7 @@ const munConfig = {
     {
       "id": 6,
       "name": "Lamar Abobaker Ahmed Ismail",
-      "photo": "imgs/pfps/lamar1.png",
+      "photo": "imgs/pfps/lamar2.png",
       "quote": "Hope guides every negotiation.",
       "committee": "UNICEF",
       "country": "Portugal",
@@ -880,15 +880,21 @@ function initCountdown() {
 function loadEventDetails() {
   const eventDates = document.getElementById('event-dates');
   const eventTimes = document.getElementById('event-times');
-  
-  if (eventDates) {
-      eventDates.textContent = formatDate(munConfig.event.startDate) + ' - ' + formatDate(munConfig.event.endDate, true);
+
+  if (munConfig?.event?.startDate && munConfig?.event?.endDate) {
+      const startDate = new Date(munConfig.event.startDate);
+      const endDate = new Date(munConfig.event.endDate);
+
+      const formattedDate = `${startDate.toLocaleDateString('en-US', { month: 'long' })} ${startDate.getDate()} - ${endDate.getDate()}, ${endDate.getFullYear()}`;
+
+      eventDates.textContent = formattedDate;
   }
-  
-  if (eventTimes) {
+
+  if (munConfig?.event?.timeFormat) {
       eventTimes.textContent = munConfig.event.timeFormat;
   }
 }
+
 
 // Helper function to format date
 function formatDate(date, onlyDay = false) {
