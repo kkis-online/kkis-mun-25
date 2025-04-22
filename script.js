@@ -341,7 +341,7 @@ const munConfig = {
       "id": 27,
       "name": "Sarah Alaa Alasaad",
       "photo": "imgs/pfps/sara1.png",
-      "quote": "Change starts with conversation.",
+      "quote": "True leadership is not measured by power, but by the courage to build bridges where others build walls",
       "committee": "UNICEF",
       "country": "Palestine",
       "school": "KKIS",
@@ -364,7 +364,7 @@ const munConfig = {
     {
       "id": 29,
       "name": "Maya Khaled Abu Amr",
-      "photo": "imgs/pfps/maya.png",
+      "photo": "imgs/pfps/maya2.png",
       "quote": "Every voice matters in diplomacy.",
       "committee": "UNICEF",
       "country": "Georgia",
@@ -458,6 +458,18 @@ const munConfig = {
       "interests": "Child health, global aid"
     },
     {
+      "id": 39,
+      "name": "Lillian Musab Alzarkan",
+      "photo": "imgs/pfps/lilian.png",
+      "quote": "oices of youth shape the world.",
+      "committee": "UNICEF",
+      "country": "Syria",
+      "school": "KKIS",
+      "experience": "First year in MUN",
+      "achievements": "Active contributor UNICEF 2025",
+      "interests": "Healthcare access, global aid"
+    },
+    {
       "id": 40,
       "name": "Hamza Mohammed Farouk",
       "photo": "imgs/pfps/hamza2.png",
@@ -532,7 +544,7 @@ const munConfig = {
     {
       "id": 44,
       "name": "Hala Ahmed Mohammed",
-      "photo": "imgs/pfps/hala1.png",
+      "photo": "imgs/pfps/hala3.png",
       "quote": "Together we can improve health.",
       "committee": "WHO",
       "country": "Turkey",
